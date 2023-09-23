@@ -33,12 +33,11 @@
 - Jira
 
 ---
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanej93\&rank_icon=github)
 
 
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanej93\&rank_icon=github)
-  
+
+<div align="center">  
 </div>
 
 
