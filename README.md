@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EuiJin%20Han&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it%2E&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=EuiJin%20Han&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it%2E&descAlignY=51&descAlign=62)
 
 ### Hey there! 👋 
 ### Dive into my world where curiosity meets creativity. 😋
