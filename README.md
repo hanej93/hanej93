@@ -4,17 +4,17 @@
 ### Dive into my world where curiosity meets creativity. 😋
 
 ## 🚀 Backend
-- Java
-- Spring Boot, Spring Security, Spring Data JPA, Spring Batch
-- JPA, Querydsl, Mybatis 
-- JUnit4/5
-- Gradle, Maven
-- RabbitMQ, Redis
+- Java 21, Kotlin(Basic)
+- Spring Boot 3.x, Spring Data JPA, Spring Security 6.x, Spring Batch 5.x, Spring Cloud 2023.x, Spring Actuator
+- JPA, Querydsl, Mybatis
+- JUnit 5, Mockito
+- Gradle 8.x, Maven
+- RabbitMQ, Redis, Apache Kafka/Zookeeper
 
 ## 🎨 Frontend
 - HTML5
-- CSS/SCSS/LESS - Flex Based, Responsive Web
-- JavaScript (ES6), TypeScript, JQuery
+- CSS3/Sass/LESS - Flex Based, Responsive Web
+- JavaScript, TypeScript (ES6), JQuery
 - Thymeleaf, JSP/JSTL
 - Bootstrap, Styled Components
 - React, Vue - Tutorial
@@ -22,20 +22,23 @@
 ## 🔧 DevOps
 - Oracle, MySQL, MariaDB, PostgreSQL
 - Jenkins, TravisCI
-- AWS (EC2, RDS, S3), Heroku
+- Prometheus, Grafana, Zipkin, Resilience4j(Circuit Breaker) - Tutorial
+- AWS (RDS, EC2, S3), Heroku - Basic
 - Nginx, Tomcat, Apache
 - Linux, Mac, Window
 - Docker
 
 ## 🛠 Tools & Miscellaneous
-- IntelliJ, Visual Studio Code, Eclipse (STS)
-- Git/Github, Slack, Notion
-- Postman, ngrok
+- IntelliJ, Webstomp, Visual Studio Code
+- DataGrip, GitKraken, Sourcetree
+- Git/Github, Slack, Teams, Notion
+- Postman, Ngrok
 - Jira
 
 ---
+ <!-- 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanej93\&rank_icon=github)
-
+-->
 
 
 <div align="center">  
