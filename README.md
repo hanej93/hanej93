@@ -6,9 +6,10 @@
 ## 🚀 Backend
 - Java 21, Kotlin(Basic)
 - Spring Boot 3.x, Spring Data JPA, Spring Security 6.x, Spring Batch 5.x, Spring Cloud 2023.x, Spring Actuator
+- Swagger 3.x, Spring REST Docs 3.x
 - JPA, Querydsl, Mybatis
 - JUnit 5, Mockito
-- Gradle 8.x, Maven
+- Gradle 8.x, Maven 4.0
 - RabbitMQ, Redis, Apache Kafka/Zookeeper
 
 ## 🎨 Frontend
@@ -21,7 +22,7 @@
 
 ## 🔧 DevOps
 - Oracle, MySQL, MariaDB, PostgreSQL
-- Jenkins, TravisCI
+- GitHub Actions, Jenkins, TravisCI
 - Prometheus, Grafana, Zipkin, Resilience4j(Circuit Breaker) - Tutorial
 - AWS (RDS, EC2, S3), Heroku - Basic
 - Nginx, Tomcat, Apache
@@ -31,9 +32,9 @@
 ## 🛠 Tools & Miscellaneous
 - IntelliJ, Webstomp, Visual Studio Code
 - DataGrip, GitKraken, Sourcetree
-- Git/Github, Slack, Teams, Notion
+- Git/Github
 - Postman, Ngrok
-- Jira
+- Jira, Slack, Teams, Notion
 
 ---
  <!-- 
